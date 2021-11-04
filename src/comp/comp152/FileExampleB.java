@@ -10,7 +10,8 @@ public class FileExampleB{
         var Reader = new Scanner(System.in);
         var userResponse = "";
         while(!userResponse.equals("done")){
-            System.out.println();
+            System.out.println("What is the name of the student you are looking for (Enter the student's name or done to exit the program): ");
+
         }
     }
 }
